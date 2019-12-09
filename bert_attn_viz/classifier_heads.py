@@ -1,6 +1,6 @@
 import tensorflow as tf
 import bert_attn_viz.modeling as modeling
-import bert_attn_viz.san as san
+#import bert_attn_viz.san as san
 
 
 # TODO: Finish documenting function
